@@ -3,7 +3,7 @@
 
 ## exe使用
 下载并将exe放入所需转化的文件夹中 双击出现提示 可将本路径下所有.cpp在ansi和utf8之间互相转化
-[![qg0NqS.png](https://s1.ax1x.com/2022/03/30/qg0NqS.png)](https://imgtu.com/i/qg0NqS)
+<a href="https://imgtu.com/i/qg0NqS"><img src="https://s1.ax1x.com/2022/03/30/qg0NqS.png" alt="qg0NqS.png" border="0" width="30%" /></a>
 
 ## 拓展 不同的文件后缀和编码
 + 后缀
