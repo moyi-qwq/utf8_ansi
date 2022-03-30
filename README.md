@@ -21,6 +21,9 @@ FormatOfFind = ['.cpp','.txt']
 	outType = 'ansi'
 ```
 ## 编译成exe
+
 -pyinstaller -F main.py
+
 本人与百度公司长期合作，相关内容
+
 详见baidu.com
